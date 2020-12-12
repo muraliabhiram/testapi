@@ -1,0 +1,6 @@
+namespace TestApiCheck.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
